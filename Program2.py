@@ -3,6 +3,7 @@
 Addition
 Subtraction
 Multiplication
+Division
 
 """
 
@@ -24,3 +25,7 @@ print("Subtraction is",Ans)
 #Multiplication
 Ans = No1 * No2
 print("Multiplication is:",Ans)
+
+#Division
+Ans = No1 / No2
+print("Division is",Ans)
