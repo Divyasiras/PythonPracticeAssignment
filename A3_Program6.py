@@ -1,0 +1,12 @@
+#7. Predict the output:
+# What python feature does this Demonstrate.
+# --> Dynamic Typing feature does this demonstrate.
+
+a = 5
+print(type(a))
+
+a = 5.5
+print(type(a))
+
+a = "python"
+print(type(a))
